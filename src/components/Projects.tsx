@@ -23,7 +23,14 @@ const Projects = () => {
       technologies: ["Python", "SQL", "AI/ML", "Resume Screening", "Data Analysis"],
       liveUrl: "#",
       githubUrl: "#"
-    }
+    },
+    {
+      title: "Pixel Art Editor",
+    description: "A browser-based pixel art editor built with React and JavaScript, featuring an intuitive grid-based canvas, custom color palette, drawing tools, eraser, undo/redo, and export-to-image functionality for creating retro-style pixel artwork.",
+    technologies: ["React.js", "JavaScript", "CSS", "HTML5 Canvas"],
+    liveUrl: "https://pixel-art-editor-eta.vercel.app/",
+    githubUrl: "https://github.com/MeAditya239/Pixel-Art-Editor"
+}
   ];
 
   return (
