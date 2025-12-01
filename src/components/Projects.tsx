@@ -54,7 +54,7 @@ const Projects = () => {
                 {project.title}
               </h3>
               
-              <p className="text-foreground/80 mb-4 line-clamp-3">
+              <p className="text-foreground/80 mb-4 ">
                 {project.description}
               </p>
               
