@@ -15,7 +15,7 @@ const Hero = () => {
               Hello, I'm Aditya Sandip Patil
             </h1>
             <p className="text-xl md:text-2xl text-muted-foreground font-medium">
-              Java Full Stack Developer
+              Full Stack Developer  * Java, Spring Boot & Modern Web technologies
             </p>
           </div>
           
